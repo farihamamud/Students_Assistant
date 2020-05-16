@@ -7,7 +7,7 @@ import 'package:students_assistant/TeacherInfo.dart';
 
 import 'Config.dart';
 
-
+///erter
 void main(){
   runApp(MaterialApp(
     home: Home(),
