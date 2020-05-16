@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584435735352",
+    "firebase_url": "https://studentsassistant-699f9.firebaseio.com",
+    "project_id": "studentsassistant-699f9",
+    "storage_bucket": "studentsassistant-699f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584435735352:android:7522025c653427fd4c3fcd",
+        "android_client_info": {
+          "package_name": "com.fariha.students_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584435735352-hfhl4cunev21dk68535lurq8vraro327.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXaj-bU6DvLQXOz6RmDZsdQjoVP8cIdow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584435735352-hfhl4cunev21dk68535lurq8vraro327.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
