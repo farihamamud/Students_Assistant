@@ -119,7 +119,7 @@ class _HomeState extends State<Home> {
 
                   Navigator.push(context,
                       MaterialPageRoute(
-                        //  builder: (context) => StudentPanel()
+                          builder: (context) => StudentPanel()
                       )
                   );
 
