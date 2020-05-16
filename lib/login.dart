@@ -21,7 +21,7 @@ class _LoginState extends State<Login> {
   void login(String email,String pw) async {
     print(email+pw);
     try{
-      AuthResult result = await _auth.signInWithEmailAndPassword(email: email, password: pw);
+      AuthResult result = await _auth.signInWithEmailAndPassword(email: email.trim(), password: pw);
       FirebaseUser user = result.user;
       String uid = user.uid;
       print(uid);
