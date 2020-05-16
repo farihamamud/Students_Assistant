@@ -8,8 +8,6 @@ import 'package:students_assistant/TeacherInfo.dart';
 import 'Config.dart';
 
 
-//Test
-
 void main(){
   runApp(MaterialApp(
     home: Home(),
@@ -119,7 +117,7 @@ class _HomeState extends State<Home> {
 
                   Navigator.push(context,
                       MaterialPageRoute(
-                          builder: (context) => StudentPanel()
+                         builder: (context) => StudentPanel()
                       )
                   );
 
