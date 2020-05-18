@@ -58,7 +58,7 @@ class _RoutineState extends State<Routine> {
             child: Row(
               children: <Widget>[
                 Expanded(
-                  flex:65,
+                  flex:61,
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: <Widget>[
@@ -76,7 +76,7 @@ class _RoutineState extends State<Routine> {
                   ),
                 ),
                 Expanded(
-                  flex:35,
+                  flex:39,
                   child: Column(
                     crossAxisAlignment: CrossAxisAlignment.end,
                     children: <Widget>[
