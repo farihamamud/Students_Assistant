@@ -73,7 +73,7 @@ class _HomeState extends State<Home> {
 
                   Navigator.push(context,
                       MaterialPageRoute(
-                          builder: (context) => TeacherInfo()
+                          builder: (context) => TeacherInfo(sem: widget.sem,)
                       )
                   );
 
@@ -94,7 +94,7 @@ class _HomeState extends State<Home> {
 
                   Navigator.push(context,
                       MaterialPageRoute(
-                          builder: (context) => CRInfo()
+                          builder: (context) => CRInfo(sem: widget.sem,)
                       )
                   );
 

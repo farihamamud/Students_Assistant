@@ -2,7 +2,6 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:students_assistant/Notice.dart';
 import 'package:students_assistant/login.dart';
-
 import 'Config.dart';
 
 
