@@ -37,3 +37,25 @@ In this page students will be able to see their notice and also can go to their 
 ![Image](https://user-images.githubusercontent.com/45858336/82367171-33ba1a00-9a35-11ea-8401-fd67fb746961.jpg) 
 
 Here students can see their routine according to their sections.
+
+### Teacher Info Page
+
+![Image](https://user-images.githubusercontent.com/45858336/82632857-43935300-9c1b-11ea-8e9f-66f183269b34.jpg)
+
+Here students can see teachers information of their semester.
+
+### CR Info Page
+
+![Image](https://user-images.githubusercontent.com/45858336/82632852-40986280-9c1b-11ea-8cb0-a433d0896fb3.jpg)
+
+Here students can see cr's information of their semester.
+
+### Student Panel Page
+
+![Image](https://user-images.githubusercontent.com/45858336/82632853-42622600-9c1b-11ea-984b-d1233ad247ec.jpg)
+
+In this page students can login to their respective student panel account.
+
+## Contributers
+- [Fariha Mamud](https://github.com/farihamamud)
+- [Afrida Mamud](https://github.com/Afrida07)
