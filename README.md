@@ -17,24 +17,24 @@ information CR information in one organized place.
 - To be able to login to students respective student panel account easily.
 - To be able to get notice fast.
 ## Platform
--	Android, iOS
+-	[Android](https://www.android.com/), [iOS](https://www.apple.com/ios/ios-13/)
 ## Language
--	Dart
+-	[Dart](https://dart.dev/)
 ## Software Development Kit
--  Flutter
+-  [Flutter](https://flutter.dev/)
 ## IDE
--	Android Studio
+-	[Android Studio](https://developer.android.com/studio)
 ## Database
--	Firebase Realtime Database
+-	[Firebase Realtime Database](https://firebase.google.com/docs/database)
 ## Database Design and Implementation
+<img src="https://user-images.githubusercontent.com/45858336/83246844-837eab00-a1c4-11ea-885a-5528a62aea44.PNG" width="49%">
 
-![Main](https://user-images.githubusercontent.com/45858336/83226038-e2332d00-a1a2-11ea-8b3a-227ae397bb35.PNG)
+<img src="https://user-images.githubusercontent.com/45858336/83246861-87aac880-a1c4-11ea-8059-97937eb8f5aa.PNG" width="49%">
+<img src="https://user-images.githubusercontent.com/45858336/83246866-88dbf580-a1c4-11ea-923a-a360f79f0530.PNG" width="49%">
 
-![Notice](https://user-images.githubusercontent.com/45858336/83226041-e3fcf080-a1a2-11ea-8919-57a9be63f6b3.PNG)
-![Routine](https://user-images.githubusercontent.com/45858336/83226048-e7907780-a1a2-11ea-98da-8509b09ff5e6.PNG)
+<img src="https://user-images.githubusercontent.com/45858336/83246876-8bd6e600-a1c4-11ea-9f96-2acc78a0ac67.PNG" width="49%">
+<img src="https://user-images.githubusercontent.com/45858336/83246834-81b4e780-a1c4-11ea-8c56-a8dcb9cb1b97.PNG" width="49%">
 
-![TeacherInfo](https://user-images.githubusercontent.com/45858336/83226054-e95a3b00-a1a2-11ea-903c-1b94cd6bfd64.PNG)
-![CRInfo](https://user-images.githubusercontent.com/45858336/83226036-e0696980-a1a2-11ea-8c3c-8e36896dbc47.PNG)
 
 
 ## Project Output
