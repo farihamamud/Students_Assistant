@@ -7,8 +7,8 @@ Students assistant is an android ios based app which is very user friendly  and 
 ## Features
 -	Notice
 -	Class Routine
--	Teacher Info
--	CR Info
+-	Teacher Information
+-	CR Information
 -	Student Panel
 
 ## Objectives
