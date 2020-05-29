@@ -1,7 +1,7 @@
 # Student's Assistant
 ## Introduction
 
-Students assistant is an android ios based app which is very user friendly  and easy to use. In this application students can get notice of their varsity. They can get their class routine according to their section. Also they can get their course teacher’s information as well as their cr’s information. They can also login to their respective student panel account.
+Students assistant is an android and ios based app which is very user friendly  and easy to use. In this application students can get notice of their varsity. They can get their class routine according to their section. Also they can get their course teacher’s information as well as their cr’s information. They can also login to their respective student panel account.
 
 
 ## Features
