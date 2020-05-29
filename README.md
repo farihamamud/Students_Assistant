@@ -61,7 +61,7 @@ In this page students will be able to see their notice and also can go to their 
 ![Routine](https://user-images.githubusercontent.com/45858336/82367134-2309a400-9a35-11ea-8a91-1540cd5de814.jpg)
 ![RoutineSem](https://user-images.githubusercontent.com/45858336/82367171-33ba1a00-9a35-11ea-8401-fd67fb746961.jpg) 
 
-Here students can see their routine according to their sections.
+Here students can see their class routine according to their sections.
 
 ### Teacher Info Page
 
