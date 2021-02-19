@@ -92,7 +92,7 @@ In this page students can login to their respective student panel account.
 
 ## Future Plan
 - We will make a web based admin panel.
-- We will make adminstrator,teacher version and student version of this app.
+- We will make administrator,teacher version and student version of this app.
 - We can also make a list for available rooms and labs so that students can easily allocate rooms for their extra classes or labs through this app.
 
 
